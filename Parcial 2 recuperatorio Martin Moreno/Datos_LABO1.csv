@@ -1,0 +1,22 @@
+id,descripcion,domicilio,recursos,rubroId
+1,Fuego,Salta 2345,32,1
+2,Inundacion,Piedras 658,4,2
+3,Persona atrapada,Av. San Juan y Salta,8,1
+4,Entrega alimentos,Plaza Miserere,24,2
+5,Robo,Av. Del Libertador 1548,8,3
+6,Escape toxico,Armenia 25,7,4
+7,Choque,Cuba 6534,16,4
+8,Escape monoxido,Av. Independencia 1544,15,1
+9,Hurto,Av. Avellaneda 2312,2,3
+10,Accidente,Azcuenaga 1500,8,1
+11,Choque en cadena,Au. Richieri,25,4
+12,Desastre por rafagas,Santiago del Estero,8,2
+13,Pelea callejera,Av. Rivadavia 2324,15,3
+14,Caida de arbol,Fatima 123,8,2
+15,Persona en las vias,Moreno 4356,4,2
+16,Caida ascensor,Av. Alem 890,6,1
+17,Asesinato,Godoy 765,6,3
+18,Estampida en estadio,Brandsen 123,32,4
+19,Derrumbe,Gascon 12,46,1
+20,Piquete,9 de Julio y Lima,45,3
+21,Parto,Av. Cordoba 1200,3,4

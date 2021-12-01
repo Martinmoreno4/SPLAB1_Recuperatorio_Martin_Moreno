@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1638366476 source:d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1638366468 d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\linkedlist.h
+
+1638364435 source:d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\rubro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Rubro.h"
+
+1638368182 source:d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\controller.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"controller.h"
+
+1638368108 d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\controller.h
+	"LinkedList.h"
+	"Emergencias.h"
+	"parser.h"
+	"Rubro.h"
+
+1638366468 d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\emergencias.h
+	"Rubro.h"
+
+1638361916 d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\parser.h
+
+1638368108 source:d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Emergencias.h"
+
+1638367097 source:d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Emergencias.h"
+
+1638367521 source:d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\emergencias.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Emergencias.h"
+	"biblioteca.h"
+	"Rubro.h"
+
+1638363146 source:d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1638363146 d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\biblioteca.h
+
+1638365362 d:\3°cuatri 2021\lab 1\segundo parcial recuperatorio\parcial 2 recuperatorio martin moreno\rubro.h
+
